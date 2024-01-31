@@ -1,7 +1,7 @@
 # automating_GSheets-tunts_rocks-
 This automates Google sheet data (JSON KEY will expires soon)
 
-    - STEPS TO RUN THIS APPLICATION -
+- STEPS TO RUN THIS APPLICATION -
     0. DOWNLOAD the key attached, it's a JSON file
     1. Change the value of KEY_PATH to the correct key's path downloaded
     2. Run the commands to install pandas, gspread and oauth2:
